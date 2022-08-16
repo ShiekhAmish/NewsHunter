@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Zeke Miller, Eric Tucker",
+    "title": "FBI's search of Trump's Florida estate: Why now? - The Associated Press",
+    "description": "WASHINGTON (AP) — The FBI’s unprecedented search of former President Donald Trump’s Florida residence ricocheted around government, politics and a polarized country Tuesday along with questions as to why the Justice Department — notably cautious under Attorne…",
+    "url": "https://apnews.com/article/donald-trump-mar-a-lago-fbi-search-99097089194e736315c366a0e8fbafee",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/38f1c093379e4182bfdf9bebd4ff62a8/3000.jpeg",
+    "publishedAt": "2022-08-10T07:35:30Z",
+    "content": "WASHINGTON (AP) The FBIs unprecedented search of former President Donald Trumps Florida residence ricocheted around government, politics and a polarized country Tuesday along with questions as to why… [+8152 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Ukraine says 11 killed overnight, Britain flags new Russian force - Reuters UK",
+    "description": "Russian shelling killed 11 people in Ukraine's central Dnipropetrovsk region overnight, governor Valentyn Reznychenko said on Wednesday, as Britain said Russia had \"almost certainly\" established a major new ground force to support its war.",
+    "url": "https://www.reuters.com/world/ukraine-suggests-partisans-behind-blasts-russian-airbase-crimea-2022-08-10/",
+    "urlToImage": "https://www.reuters.com/resizer/cX1MYlvDnnl9S9lEAUYhTgpIJgo=/1024x536/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QQAJ4ZDFRZN67FW3QF4KFCQMY4.jpg",
+    "publishedAt": "2022-08-10T07:12:00Z",
+    "content": "Aug 10 (Reuters) - Russian shelling killed 11 people in Ukraine's central Dnipropetrovsk region overnight, governor Valentyn Reznychenko said on Wednesday, as Britain said Russia had \"almost certainl… [+4833 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Graeme Massie",
+    "title": "Burning body found hanging from tree in Los Angeles’ Griffith Park - The Independent",
+    "description": "Gruesome discovery was made near the park’s merry-go-round",
+    "url": "https://www.independent.co.uk/news/world/americas/body-fire-tree-la-griffith-park-b2141898.html",
+    "urlToImage": "https://static.independent.co.uk/2022/08/09/22/Griffith.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-08-10T06:09:22Z",
+    "content": "A burning body was found hanging from a tree in Los Angeles Griffith Park, according to authorities in the city.\r\nLos Angeles Fire Department says that the gruesome discovery was made near the parks … [+1499 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Tara Subramaniam, CNN",
+    "title": "Australian landmarks glow pink to honor Olivia Newton-John - CNN",
+    "description": "The Sydney Opera House will turn pink on Wednesday to honor Olivia Newton-John, the singer and \"Grease\" star who died on Monday in the United States.",
+    "url": "https://www.cnn.com/2022/08/10/entertainment/olivia-newton-john-australia-landmarks-light-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220809204840-02-olivia-newton-john-melbourne-australia-landmarks-light-intl-hnk-super-tease.jpg",
+    "publishedAt": "2022-08-10T05:56:00Z",
+    "content": "(CNN)The Sydney Opera House will turn pink on Wednesday to honor Olivia Newton-John, the singer and \"Grease\" star who died on Monday in the United States.\r\nOther Australian landmarks including Optus … [+2065 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Gregory Krieg",
+    "title": "Trump's pick will win Wisconsin GOP gubernatorial primary, CNN projects - CNN",
+    "description": "Donald Trump's chosen candidate for governor in Wisconsin will win the GOP nomination, CNN projects, underscoring the former President's clout among Republican primary voters in the latest contest in which he and former Vice President Mike Pence were on oppos…",
+    "url": "https://www.cnn.com/2022/08/09/politics/primary-election-results-wisconsin-vermont-minnesota-2022/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220809233914-tim-michels-wisconsin-gop-080922.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-08-10T05:36:00Z",
+    "content": "Donald Trumps chosen candidate for governor in Wisconsin will win the GOP nomination, CNN projects, underscoring the former Presidents clout among Republican primary voters in the latest contest in w… [+7385 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Carmen Reinicke",
+    "title": "Stock futures flat as investors brace for July inflation report - CNBC",
+    "description": "Investors are awaiting the July consumer price index report due Wednesday, which will give the Federal Reserve further data on inflation.",
+    "url": "https://www.cnbc.com/2022/08/09/stock-futures-tick-up-as-investors-brace-for-july-inflation-report-.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107077011-1655393548449-glasses.jpg?v=1655393621&w=1920&h=1080",
+    "publishedAt": "2022-08-10T05:26:00Z",
+    "content": "Stock futures were little changed early on Wednesday as investors looked ahead to a key inflation report set to be released Wednesday.\r\nDow Jones Industrial Average futures were flat. S&amp;P 500 and… [+1233 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Graeme Massie",
+    "title": "China discovers potentially fatal new virus passed to humans from shrews - The Independent",
+    "description": "The Langya Henipavirus, known as “Langya”, has already infected 35 people says Taiwan’s Centers for Disease Control",
+    "url": "https://www.independent.co.uk/asia/china/new-virus-in-china-2022-langya-shrews-b2141974.html",
+    "urlToImage": "https://static.independent.co.uk/2022/08/09/18/iStock-965474580.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-08-10T04:51:16Z",
+    "content": "China has discovered a potentially fatal new virus that is believed to have been passed to humans by shrews, according to reports.\r\nThe Langya Henipavirus, known as Langya, has already infected 35 pe… [+1275 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Musk sells Tesla shares worth $6.9 billion, cites chance of forced Twitter deal - Reuters.com",
+    "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> Chief Executive Officer Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter deal if …",
+    "url": "https://www.reuters.com/business/autos-transportation/elon-musk-sells-792-million-tesla-shares-worth-69-billion-sec-filing-2022-08-10/",
+    "urlToImage": "https://www.reuters.com/resizer/SF3RL4wYCDiQ98HiIIER-olZ6eM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XFTKTFGW6VI65KS2CXYZND5TBU.jpg",
+    "publishedAt": "2022-08-10T04:35:00Z",
+    "content": "Aug 10 (Reuters) - Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter … [+2421 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Phillip M. Bailey, USA TODAY",
+    "title": "Primary takeaways: Omar squeaks by in Minnesota; Trump wins proxy war - USA TODAY",
+    "description": "Wisconsin Democrats united behind Lt. Gov. Mandela Barnes, nominating him to face two-term GOP incumbent Sen. Ron Johnson in the November election.",
+    "url": "https://www.usatoday.com/story/news/politics/2022/08/10/primary-wisconsin-johnson-omar-minnesota-vermont/10268436002/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2021/03/22/USAT/224b3f98-58ab-40a7-a849-9b65cf343079-AFP_AFP_92V6GQ.jpg?auto=webp&crop=5568,3132,x0,y320&format=pjpg&width=1200",
+    "publishedAt": "2022-08-10T04:02:12Z",
+    "content": "The August primaries continued on Tuesday with Democrats looking to maintain their momentum in Wisconsin.\r\nIn 2016, then-candidate Donald Trump penetrated the so-called \"blue wall\" when he defeated H… [+7696 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Gawon Bae and Jessie Yeung, CNN",
+    "title": "Record rainfall kills at least 9 in Seoul as water floods buildings, submerges cars - CNN",
+    "description": "Record downpours flooded homes, roads and subway stations in the South Korean capital Seoul this week, killing at least nine people, as forecasters warned of more rain to come.",
+    "url": "https://www.cnn.com/2022/08/09/asia/seoul-south-korea-rain-flooding-intl-hnk/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220809224824-03-seoul-south-korea-rain-flooding-restricted-super-tease.jpg",
+    "publishedAt": "2022-08-10T03:32:00Z",
+    "content": "Seoul, South Korea (CNN)Record downpours flooded homes, roads and subway stations in the South Korean capital Seoul this week, killing at least nine people, as forecasters warned of more rain to come… [+3068 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": "Doric Sam",
+    "title": "Nets Rumors: Kyrie Irving Disputes Reported Discontent With Sean Marks, Steve Nash - Bleacher Report",
+    "description": "Brookl <i>This article will be updated soon to provide more information and analysis.</i> <i>For more from Bleacher Report on this topic and from around the...",
+    "url": "https://bleacherreport.com/articles/10044914-nets-rumors-kyrie-irving-disputes-reported-discontent-with-sean-marks-steve-nash",
+    "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1660097771/wvfacoeoszdgbuwhvhcf.jpg",
+    "publishedAt": "2022-08-10T02:34:12Z",
+    "content": "Tayfun Coskun/Anadolu Agency via Getty Images\r\nBrooklyn Nets point guard Kyrie Irving has been rumored to be discontent with head coach Steve Nash and general manager Sean Marks, but his camp is hopi… [+1842 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Rick Maese",
+    "title": "Judge denies LIV golfers' bid to play PGA Tour's FedEx Cup playoffs - The Washington Post",
+    "description": "A federal judge denied the bid by three golfers — Talor Gooch, Matt Jones and Hunter Swafford — seeking spots into this week’s St. Jude Championship.",
+    "url": "https://www.washingtonpost.com/sports/2022/08/09/pga-tour-liv-golf-hearing/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SSMDN7ARGEI63BECA3A4QTHI6I.jpg&w=1440",
+    "publishedAt": "2022-08-10T02:21:38Z",
+    "content": "Comment on this story\r\nThe PGA Tours FedEx Cup playoffs will take place without any of the players who defected to the Saudi-funded LIV Golf Invitational Series.\r\nA federal judge Tuesday denied the b… [+5948 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "Nebraska woman charged with helping daughter have abortion - POLITICO",
+    "description": "Investigators uncovered Facebook messages in which the two allegedly discussed using medication to induce an abortion.",
+    "url": "https://www.politico.com/news/2022/08/09/nebraska-woman-charged-with-helping-daughter-have-abortion-00050763",
+    "urlToImage": "https://static.politico.com/ed/45/cb61136c42198aaa8a8caa222aab/facebook-abortion-pills-46795.jpg",
+    "publishedAt": "2022-08-10T02:13:03Z",
+    "content": "The daughter, meanwhile, talks about how she cant wait to get the thing out of her body, a detective wrote in court documents. I will finally be able to wear jeans, she says in one of the messages. L… [+3206 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Praveena Somasundaram",
+    "title": "Woman in Emmett Till killing not indicted by Mississippi grand jury - The Washington Post",
+    "description": "Carolyn Bryant Donham's accusations led to Till's kidnapping and lynching in 1955. In June, his family called for her arrest after an unserved warrant resurfaced.",
+    "url": "https://www.washingtonpost.com/nation/2022/08/09/carolyn-bryant-donham-emmett-till-accuser-grand-jury/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6PPLEDVPGYI6TFARUYEPTUGC2M.jpg&w=1440",
+    "publishedAt": "2022-08-10T01:41:00Z",
+    "content": "Comment on this story\r\nFive people were sifting through dusty files in the basement of a Mississippi courthouse two months ago when they laid eyes on a document that hadnt been seen for decades.\r\nIt … [+4100 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Chris Haynes",
+    "title": "Inside LeBron James' meeting with Lakers front office: Darvin Ham's offensive plan, Rob Pelinka's roster patience - Yahoo Sports",
+    "description": "Lakers first-year coach Darvin Ham will stick with having the offense run through Anthony Davis and James concurred, sources said.",
+    "url": "https://sports.yahoo.com/inside-lebron-james-meeting-with-lakers-front-office-darvin-ham-offensive-plan-rob-pelinka-roster-patience-014115495.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/FjlXkLdY2KaIkD_zrb4tsg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/7798ff10-184c-11ed-a77d-fb2a852dce3e",
+    "publishedAt": "2022-08-10T01:41:00Z",
+    "content": "LOS ANGELES It was a grand opening ceremony for one of sports' iconic franchises in late July.\r\nLos Angeles Lakers owner Jeanie Buss, along with former Laker greats, were in attendance at the teams p… [+4540 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "China Consumer Inflation Reaches 2-Year High as Pork Surges - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a256ee8f-1879-11ed-98f8-6579755a5974&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0xMC9jaGluYS1zLWNvbnN1bWVyLXByaWNlcy1qdW1wLWFkZGluZy10by1pbmZsYXRpb24tY29uY2VybnM=",
+    "urlToImage": null,
+    "publishedAt": "2022-08-10T01:36:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Biden Administration Moves To Stretch Out Monkeypox Vaccine Supply Amid Criticism - NBC News",
+    "description": "The White House response team is announcing “game-changing” plans to stretch out the U.S. monkeypox vaccine supply with guidance from the FDA. The moves come...",
+    "url": "https://www.youtube.com/watch?v=z_L4tUXuhgA",
+    "urlToImage": "https://i.ytimg.com/vi/z_L4tUXuhgA/maxresdefault.jpg",
+    "publishedAt": "2022-08-10T01:30:11Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Sophie Reardon, Gina Martinez",
+    "title": "51-year-old man charged with murdering 2 Muslim men in Albuquerque; additional charges possible, police say - CBS News",
+    "description": "Four Muslim men have been killed in the area over the past several months, and authorities have said their deaths may be linked.",
+    "url": "https://www.cbsnews.com/live-updates/muslim-men-murdered-albuquerque-new-mexico-suspect-detained/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/08/10/fd9fbcc4-e053-4eee-a182-65f7de443624/thumbnail/1200x630/4aa7bda37be51e9ae2534fdc5ce71844/muhammad-syed.jpg",
+    "publishedAt": "2022-08-10T00:46:00Z",
+    "content": "A man has been detained and charged with murdering two Muslim men, Albuquerque police announced Tuesday. Four Muslim men have been killed in the city since November, and authorities believe the suspe… [+3116 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Pat Forde",
+    "title": "Big Ten, ESPN Marriage Another Casualty of College Sports’ Growing Division - Sports Illustrated",
+    "description": "The ties between the broadcast giant and the country’s oldest conference run deep. Now, the battle lines may run deeper.",
+    "url": "https://www.si.com/college/2022/08/10/big-ten-espn-breakup-college-sports-division",
+    "urlToImage": "https://www.si.com/.image/t_share/MTkxNTAzMTgwOTE4NDMzMjY2/college-gameday.jpg",
+    "publishedAt": "2022-08-10T00:27:21Z",
+    "content": "It’s hard to believe today, in light of the reported impending breakup of ESPN and the Big Ten Conference, but once upon a time that relationship was suspected of being strong enough to decide who wo… [+5830 chars]"
+    },
+    {
+    "source": {
+    "id": "newsweek",
+    "name": "Newsweek"
+    },
+    "author": "Nick Mordowanec",
+    "title": "Russian General Threatens to Bomb Nuclear Power Plant: 'We Warned' You - Newsweek",
+    "description": "Attacks on Europe's largest nuclear facility in Ukraine has heightened awareness among global officials, even as Vladimir Putin has dismissed nuclear warfare.",
+    "url": "https://www.newsweek.com/russian-general-threatens-bomb-nuclear-power-plant-we-warned-you-1732328",
+    "urlToImage": "https://d.newsweek.com/en/full/2094770/russia-nuclear-power-plant-threats.jpg",
+    "publishedAt": "2022-08-09T23:11:40Z",
+    "content": "A major Russian general said that nuclear warfare is on the table in the ongoing war with Ukraine, ushering in a new heightened sense of security nearly six months into the conflict.\r\nMajor General V… [+3041 chars]"
+    }
+    ]
+    }
